@@ -1,7 +1,5 @@
 # Minesweeper
 
-Here's an explanation of the Minesweeper game implementation that you can add to your GitHub README file:
-
 ## Minesweeper Game Implementation
 
 This C++ program implements the classic Minesweeper game, offering a command-line interface for players to enjoy this strategic puzzle game.
